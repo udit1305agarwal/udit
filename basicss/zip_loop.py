@@ -5,3 +5,8 @@ for i,j in zip(num, num2):
     print(i+j)
 for i,j,k in zip(num, num2,num3):
     print(i,j,k)
+
+
+
+
+    
