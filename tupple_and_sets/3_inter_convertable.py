@@ -1,0 +1,12 @@
+xl = [1,12,333,13,13,2,3,4,5]
+xt = tuple(xl)
+xs = set(xl)
+print(xl)
+print(xt)
+print(xs)
+yl = list(xs)
+yt = tuple(xs)
+ys = set(xt)
+print(yl)
+print(yt)
+print(ys)
