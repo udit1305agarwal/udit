@@ -1,13 +1,9 @@
-sqlalchemy
-streamlit
-numpy
+pandas
 matplotlib
 seaborn
-pandas
 plotly
-selenium
-pillow
+sqlachemy
 opencv-contrib-python
+streamlit
+pillow
 textblob
-selenium
-webdriver_manager
